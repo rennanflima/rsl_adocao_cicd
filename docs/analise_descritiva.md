@@ -4,10 +4,11 @@ A revisão sistemática foi executada de acordo com o que foi definido no
 [protocolo](https://github.com/rennanflima/rsl_adocao_cicd/blob/main/docs/protocolo_revisao.pdf). A partir das *strings* e fontes definidas,
 as buscas primárias retornaram um total de 2.837 trabalhos, dos quais,
 964 trabalhos foram identificados no IEEE, 346 na ACM, 1.247 na Scopus e
-281 no ScienceDirect. A mostra a quantidade de trabalhos retornados por
+281 no ScienceDirect. A Figura 1 mostra a quantidade de trabalhos retornados por
 cada base de busca.
 
-[fig:num~t~rab~r~etornados] ![image](images/num_trab_retornados.png)\
+Figura 1 - Gráfico do número de trabalhos retornados
+![num_trab_retornados](/images/num_trab_retornados.png)\
 <span>Fonte: Elaborado pelo autor, com dados da revisão
 sistemática.</span>
 
@@ -20,29 +21,13 @@ dos estudos.
 Como se pode verificar, o número de estudos retornados na busca primária
 foi alto, porém a partir do processo de seleção definido anteriormente,
 esse número foi bastante reduzido. O apresenta a evolução, em números,
-do processo de seleção de estudos primários. O quadro mostra os valores
+do processo de seleção de estudos primários. O Quadro 1 mostra os valores
 na busca primária para cada *string*, no total, 2.837 estudos
 retornados, e que a partir da primeira seleção por título, resumo e
 palavra-chave, foram identificados 526 estudos potencialmente relevantes
 para a pesquisa.
 
-Com a leitura da introdução e conclusão dos estudos potencialmente
-relevantes, e utilizando-se os critérios de inclusão e exclusão,
-chegou-se a 54 estudos primários, disponíveis no deste trabalho. Assim,
-510 trabalhos considerados potencialmente relevantes na primeira seleção
-foram excluídos e os principais motivos para exclusão foram: não
-respondiam a nenhuma questão de pesquisa; estudos que não estejam
-disponíveis livremente para consulta na web ou Portal da Capes; o foco
-principal do artigo ser avaliar uma nova tecnologia ou ferramenta em um
-caso da vida real; e, não apresentavam texto completo.
-
-Com a limitação por ano, a realização das buscas para publicações a
-partir de 2016, tendo em vista que esta revisão trata-se de uma
-atualização, como mencionado anteriormente, a ilustra a distribuição dos
-estudos primários identificados pelo processo de seleção ao longo dos
-anos.
-
-**Quadro 1 - Seleção dos estudos primários**
+Quadro 1 - Seleção dos estudos primários
 <table>
     <thead>
         <tr>
@@ -97,18 +82,42 @@ anos.
 </table>
 <span>Fonte: Elaborado pelo autor, com dados da revisão sistemática.</span>
 
-A apresenta a distribuição dos trabalhos por tipo de publicação,
+
+
+Com a leitura da introdução e conclusão dos estudos potencialmente
+relevantes, e utilizando-se os critérios de inclusão e exclusão,
+chegou-se a 54 estudos primários, disponíveis no deste trabalho. Assim,
+510 trabalhos considerados potencialmente relevantes na primeira seleção
+foram excluídos e os principais motivos para exclusão foram: não
+respondiam a nenhuma questão de pesquisa; estudos que não estejam
+disponíveis livremente para consulta na web ou Portal da Capes; o foco
+principal do artigo ser avaliar uma nova tecnologia ou ferramenta em um
+caso da vida real; e, não apresentavam texto completo.
+
+Com a limitação por ano, a realização das buscas para publicações a
+partir de 2016, tendo em vista que esta revisão trata-se de uma
+atualização, como mencionado anteriormente, a Figura ilustra a distribuição dos
+estudos primários identificados pelo processo de seleção ao longo dos
+anos.
+
+Figura 2 - Gráfico do número de estudos ao longo dos anos
+![num_trab_ano](/images/num_trab_ano.png)\
+<span>Fonte: Elaborado pelo autor, com dados da revisão
+sistemática.</span>
+
+
+A Figura 3 apresenta a distribuição dos trabalhos por tipo de publicação,
 mostrando que a maioria dos estudos primários, 65%, foi publicada em
 anais de eventos (Conferências, Workshops e Simpósios). E os outros 35%
 foram publicados em periódicos. O apresenta a quantidade de estudos
 primários retornados por evento.
 
-[fig:trab~p~or~t~ipo~p~ublicacao]
-![image](images/trab_por_tipo_publicacao.png)\
+Figura 3 - Gráfico da distribuição dos estudos por tipo de publicação
+![trab_por_tipo_publicacao](/images/trab_por_tipo_publicacao.png)\
 <span>Fonte: Elaborado pelo autor, com dados da revisão
 sistemática.</span>
 
-**Quadro 2 - Estudos primários por eventos**
+Quadro 2 - Estudos primários por eventos
 <table>
     <thead>
         <tr>
@@ -234,33 +243,102 @@ sistemática.</span>
 <span>Fonte: Elaborado pelo autor, com dados da revisão sistemática.</span>
 
 
+O Quadro 3 apresenta a quantidade de estudos primários retornados por periódico. O quadro mostra que os periódicos que mais retornaram trabalhos foram revistas da IEEE e Scopus.
+
+Quadro 3 - Estudos primários por periódico
+<table>
+    <thead>
+        <tr>
+            <th>Periódicos</th>
+            <th>Quantidade de Trabalhos</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Communications of the ACM</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Computación y Sistemas</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Empirical Software Engineering</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Foundations of Computing and Decision Sciences</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>IEEE Access</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>IEEE Software</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Information and Software Technology</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>IT Professional</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Journal of Software: Evolution and Process</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Journal of Systems and Software</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Software - Practice and Experience</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>VINE Journal of Information and Knowledge Management Systems</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td><strong>TOTAL</strong></td>
+            <td><strong>18</strong></td>
+        </tr>
+    </tbody>
+</table>
+<span>Fonte: Elaborado pelo autor, com dados da revisão sistemática.</span>
+
+
 Dentre os 54 estudos primários da pesquisa, 69% se caracterizam como
 estudos experimentais (estudos baseados em evidências ou experimentos),
 14% apresentam relato de experiência industrial, 13% são revisões
 sistemáticas da literatura, e 1% mapeamento sistemático da literatura e
 teóricos (estudos conceituais baseados em um entendimento de uma área,
 referenciando outros trabalhos relacionados), ou seja, apenas 1 estudo
-primário representa cada tipo de estudo. A ilustra a divisão dos tipos
+primário representa cada tipo de estudo. A Figura 4 ilustra a divisão dos tipos
 de estudos da pesquisa.
 
-[fig:trab~p~or~t~ipo~e~studo] ![image](images/trab_por_tipo_estudo.png)\
+Figura 4 - Gráfico da distribuição dos trabalhos por tipo de estudo
+![trab_por_tipo_estudo](/images/trab_por_tipo_estudo.png)\
 <span>Fonte: Elaborado pelo autor, com dados da revisão
 sistemática.</span>
 
 Como visto, a maioria dos estudos primários foram do tipo experimental,
 e os principais métodos identificados na pesquisa para a realização do
 estudo, baseado na classificação de Easterbrook et al. (2008), foram:
-Estudo de Caso, Experimentos Controlados e Survey. A ilustra a
+Estudo de Caso, Experimentos Controlados e Survey. A Figura 5 ilustra a
 distribuição dos métodos utilizados, no qual, a maioria, 42%, realizou
 um Estudo de Caso, 21% realizaram Survey e 6% conduziram Experimentos
 Controlados.
 
-[fig:trab~p~or~t~ipo~e~xperimental]
-![image](images/trab_por_tipo_experimental.png)\
+Figura 5 -  Gráfico dos métodos empregados nos estudos do tipo experimental
+![trab_por_tipo_experimental](/images/trab_por_tipo_experimental.png)\
 <span>Fonte: Elaborado pelo autor, com dados da revisão
 sistemática.</span>
 
-Outra análise que se pode fazer é quanto ao domínio da aplicação. A
+Outra análise que se pode fazer é quanto ao domínio da aplicação. A Figura 6
 mostra os domínios de aplicação nos quais as abordagens, práticas,
 ferramentas, desafios e soluções podem ser utilizados. Como pode-se
 verificar 46% dos estudos primários teve como foco o desenvolvimento
@@ -269,7 +347,8 @@ foi realizada, 6% refere-se a sistemas embarcados, 4% software
 financeiro e 2% aplicativos móveis e software de voo, ou seja, apenas 1
 estudo primário respectivamente.
 
-[fig:trab~p~or~d~ominio~a~pp] ![image](images/trab_dominio_app.png)\
+Figura 6 - Gráfico da distribuição dos domínios de aplicação dos estudos primários
+![trab_dominio_app](/images/trab_dominio_app.png)\
 <span>Fonte: Elaborado pelo autor, com dados da revisão
 sistemática.</span>
 
