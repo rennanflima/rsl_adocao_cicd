@@ -1,5 +1,4 @@
-Análise descritiva da Revisão Sistemática
------------------------------------------
+# Análise descritiva da Revisão Sistemática
 
 A revisão sistemática foi executada de acordo com o que foi definido no
 protocolo que se encontra resumido na seção [subsec:processo~s~rl] e
