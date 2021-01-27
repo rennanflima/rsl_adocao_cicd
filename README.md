@@ -1,5 +1,7 @@
 # Revisão Sistemática da Literatura sobre a Adoção de Integração e Entrega Contínua
 
+A revisão sistemática foi executada de acordo com o que foi definido no protocolo. A partir das strings e fontes definidas, as buscas primárias retornaram um total de 2.837 trabalhos, dos quais, 964 trabalhos foram identificados no IEEE, 346 na ACM, 1.247 na Scopus e 281 no ScienceDirect. 
+
 ## Questões de Pesquisa
 
 - Q1. Quais desafios foram relatados para a adoção de práticas contínuas?
