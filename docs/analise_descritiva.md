@@ -348,14 +348,14 @@ Figura 6 - Gráfico da distribuição dos domínios de aplicação dos estudos p
 <span>Fonte: Elaborado pelo autor, com dados da revisão
 sistemática.</span>
 
-Por fim, os resultados da avaliação da qualidade são apresentados pela .
+Por fim, os resultados da avaliação da qualidade são apresentados pelo Quadro 4.
 A pontuação máxima que um estudo poderia alcançar de acordo com os
 critérios de qualidade definidos eram 40 pontos. Baseado em Beecham et
 al. (2008) os valores foram divididos em 5 faixas de nota, e a esse
 valor é associada uma classificação: Excelente, Muito Boa, Boa, Média e
 Baixa.
 
-Tabela 1 - Qualidade dos estudos primários
+Quadro 4 - Qualidade dos estudos primários
 <table>
     <thead>
         <tr>
