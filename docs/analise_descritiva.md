@@ -83,15 +83,7 @@ Quadro 1 - Seleção dos estudos primários
 sistemática.</span>  
 
 
-Com a leitura da introdução e conclusão dos estudos potencialmente
-relevantes, e utilizando-se os critérios de inclusão e exclusão,
-chegou-se a 54 estudos primários, disponíveis no deste trabalho. Assim,
-510 trabalhos considerados potencialmente relevantes na primeira seleção
-foram excluídos e os principais motivos para exclusão foram: não
-respondiam a nenhuma questão de pesquisa; estudos que não estejam
-disponíveis livremente para consulta na web ou Portal da Capes; o foco
-principal do artigo ser avaliar uma nova tecnologia ou ferramenta em um
-caso da vida real; e, não apresentavam texto completo.
+<p>Com a leitura da introdução e conclusão dos estudos potencialmente relevantes, e utilizando-se os critérios de inclusão e exclusão, chegou-se a 54 estudos primários, disponíveis no deste trabalho. Assim, 510 trabalhos considerados potencialmente relevantes na primeira seleção foram excluídos e os principais motivos para exclusão foram: não respondiam a nenhuma questão de pesquisa; estudos que não estejam disponíveis livremente para consulta na web ou Portal da Capes; o foco principal do artigo ser avaliar uma nova tecnologia ou ferramenta em um caso da vida real; e, não apresentavam texto completo.</p>
 
 Com a limitação por ano, a realização das buscas para publicações a
 partir de 2016, tendo em vista que esta revisão trata-se de uma
@@ -111,7 +103,7 @@ anais de eventos (Conferências, Workshops e Simpósios). E os outros 35%
 foram publicados em periódicos. O apresenta a quantidade de estudos
 primários retornados por evento.
 
-Figura 3 - Gráfico da distribuição dos estudos por tipo de publicação
+Figura 3 - Gráfico da distribuição dos estudos por tipo de publicação  
 ![trab_por_tipo_publicacao](/images/trab_por_tipo_publicacao.png)\
 <span>Fonte: Elaborado pelo autor, com dados da revisão
 sistemática.</span>
@@ -315,16 +307,16 @@ Quadro 3 - Estudos primários por periódico
 
 
 
-Dentre os 54 estudos primários da pesquisa, 69% se caracterizam como
+<p>Dentre os 54 estudos primários da pesquisa, 69% se caracterizam como
 estudos experimentais (estudos baseados em evidências ou experimentos),
 14% apresentam relato de experiência industrial, 13% são revisões
 sistemáticas da literatura, e 1% mapeamento sistemático da literatura e
 teóricos (estudos conceituais baseados em um entendimento de uma área,
 referenciando outros trabalhos relacionados), ou seja, apenas 1 estudo
 primário representa cada tipo de estudo. A Figura 4 ilustra a divisão dos tipos
-de estudos da pesquisa.
+de estudos da pesquisa.</p>
 
-Figura 4 - Gráfico da distribuição dos trabalhos por tipo de estudo
+Figura 4 - Gráfico da distribuição dos trabalhos por tipo de estudo  
 ![trab_por_tipo_estudo](/images/trab_por_tipo_estudo.png)\
 <span>Fonte: Elaborado pelo autor, com dados da revisão
 sistemática.</span>
