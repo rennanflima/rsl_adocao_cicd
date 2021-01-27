@@ -42,7 +42,7 @@ atualização, como mencionado anteriormente, a ilustra a distribuição dos
 estudos primários identificados pelo processo de seleção ao longo dos
 anos.
 
-Seleção dos estudos primários
+**Quadro 1 - Seleção dos estudos primários**
 <table>
     <thead>
         <tr>
@@ -87,11 +87,11 @@ Seleção dos estudos primários
             <td>0</td>
         </tr>
         <tr>
-            <td>TOTAL</td>
-            <td>2838</td>
-            <td>562</td>
-            <td>508</td>
-            <td>54</td>
+            <td><strong>TOTAL</strong></td>
+            <td><strong>2838</strong></td>
+            <td><strong>562</strong></td>
+            <td><strong>508</strong></td>
+            <td><strong>54</strong></td>
         </tr>
     </tbody>
 </table>
@@ -108,6 +108,7 @@ primários retornados por evento.
 <span>Fonte: Elaborado pelo autor, com dados da revisão
 sistemática.</span>
 
+**Quadro 2 - Estudos primários por eventos**
 <table>
     <thead>
         <tr>
@@ -225,8 +226,8 @@ sistemática.</span>
             <td>1</td>
         </tr>
         <tr>
-            <td>Total</td>
-            <td>36</td>
+            <td><strong>TOTAL</strong></td>
+            <td><strong>36</strong></td>
         </tr>
     </tbody>
 </table>
@@ -279,7 +280,7 @@ al. (2008) os valores foram divididos em 5 faixas de nota, e a esse
 valor é associada uma classificação: Excelente, Muito Boa, Boa, Média e
 Baixa.
 
-
+**Tabela 1 - Qualidade dos estudos primários**
 <table>
     <thead>
         <tr>
@@ -294,13 +295,13 @@ Baixa.
     </thead>
     <tbody>
         <tr>
-            <td>Número de Estudos Primários</td>
+            <td><strong>Número de Estudos Primários</strong></td>
             <td>2</td>
             <td>4</td>
             <td>15</td>
             <td>25</td>
             <td>6</td>
-            <td>54</td>
+            <td><strong>54</strong></td>
         </tr>
         <tr>
             <td>%</td>
@@ -309,11 +310,11 @@ Baixa.
             <td>29%</td>
             <td>48%</td>
             <td>11%</td>
-            <td>100%</td>
+            <td><strong>100%</strong></td>
         </tr>
     </tbody>
 </table>
-<span>Fonte: Elaborado pelo autor, com dados da revisão sistemática.</span>
+<span>Fonte: Elaborado pelo autor, com dados da revisão sistemática, baseado em Beecham et al. (2008)</span>
 
 Como pode ser observado, apenas 6 estudos (12%) dos trabalhos que
 apresentam qualidade estão na faixa baixa ou média, enquanto 15 estudos
