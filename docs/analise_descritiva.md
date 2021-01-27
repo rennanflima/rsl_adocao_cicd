@@ -79,9 +79,8 @@ Quadro 1 - Seleção dos estudos primários
             <td><strong>54</strong></td>
         </tr>
     </tbody>
-</table>
-<span>Fonte: Elaborado pelo autor, com dados da revisão sistemática.</span>
-
+</table><span>Fonte: Elaborado pelo autor, com dados da revisão
+sistemática.</span>  
 
 
 Com a leitura da introdução e conclusão dos estudos potencialmente
@@ -100,7 +99,7 @@ atualização, como mencionado anteriormente, a Figura ilustra a distribuição 
 estudos primários identificados pelo processo de seleção ao longo dos
 anos.
 
-Figura 2 - Gráfico do número de estudos ao longo dos anos
+Figura 2 - Gráfico do número de estudos ao longo dos anos  
 ![num_trab_ano](/images/num_trab_ano.png)\
 <span>Fonte: Elaborado pelo autor, com dados da revisão
 sistemática.</span>
@@ -116,6 +115,7 @@ Figura 3 - Gráfico da distribuição dos estudos por tipo de publicação
 ![trab_por_tipo_publicacao](/images/trab_por_tipo_publicacao.png)\
 <span>Fonte: Elaborado pelo autor, com dados da revisão
 sistemática.</span>
+
 
 Quadro 2 - Estudos primários por eventos
 <table>
@@ -240,10 +240,13 @@ Quadro 2 - Estudos primários por eventos
         </tr>
     </tbody>
 </table>
-<span>Fonte: Elaborado pelo autor, com dados da revisão sistemática.</span>
+Fonte: Elaborado pelo autor, com dados da revisão sistemática.    
+
+
 
 
 O Quadro 3 apresenta a quantidade de estudos primários retornados por periódico. O quadro mostra que os periódicos que mais retornaram trabalhos foram revistas da IEEE e Scopus.
+
 
 Quadro 3 - Estudos primários por periódico
 <table>
@@ -307,8 +310,9 @@ Quadro 3 - Estudos primários por periódico
             <td><strong>18</strong></td>
         </tr>
     </tbody>
-</table>
-<span>Fonte: Elaborado pelo autor, com dados da revisão sistemática.</span>
+</table><span>Fonte: Elaborado pelo autor, com dados da revisão sistemática.</span>
+
+
 
 
 Dentre os 54 estudos primários da pesquisa, 69% se caracterizam como
@@ -359,7 +363,7 @@ al. (2008) os valores foram divididos em 5 faixas de nota, e a esse
 valor é associada uma classificação: Excelente, Muito Boa, Boa, Média e
 Baixa.
 
-**Tabela 1 - Qualidade dos estudos primários**
+Tabela 1 - Qualidade dos estudos primários
 <table>
     <thead>
         <tr>
@@ -392,8 +396,9 @@ Baixa.
             <td><strong>100%</strong></td>
         </tr>
     </tbody>
-</table>
-<span>Fonte: Elaborado pelo autor, com dados da revisão sistemática, baseado em Beecham et al. (2008)</span>
+</table><span>Fonte: Elaborado pelo autor, com dados da revisão sistemática, baseado em Beecham et al. (2008)</span>
+
+
 
 Como pode ser observado, apenas 6 estudos (12%) dos trabalhos que
 apresentam qualidade estão na faixa baixa ou média, enquanto 15 estudos
